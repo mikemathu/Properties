@@ -17,7 +17,7 @@ namespace Properties
             //Changed my mind. Let's use the full name.
             book.SetTitle("Harry Potter and the Half-Blood Price");
 
-            //Now I forgot.What was the title ain?
+            //Now I forgot.What was the title again?
             Console.WriteLine(book.GetTitle());
             */
 
